@@ -2,8 +2,9 @@ services:
   - type: web
     name: message-api
     env: node
-    buildCommand: cd server && npm install
-    startCommand: cd server && node index.js
+    rootDir: server
+    buildCommand: npm install
+    startCommand: node index.js
     envVars:
       - key: NODE_ENV
         value: production
