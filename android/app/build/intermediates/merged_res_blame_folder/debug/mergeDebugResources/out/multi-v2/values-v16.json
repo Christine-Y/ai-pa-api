@@ -1,0 +1,20 @@
+{
+    "logs": [
+        {
+            "outputFile": "agency.aistaff.call_summary_app-mergeDebugResources-57:/values-v16/values-v16.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\tgirl\\.gradle\\caches\\8.9\\transforms\\c8c589d53c34eb94adbc6aff6aca594a\\transformed\\appcompat-1.1.0\\res\\values-v16\\values-v16.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "5",
+                        "endColumns": "12",
+                        "endOffsets": "223"
+                    }
+                }
+            ]
+        }
+    ]
+}

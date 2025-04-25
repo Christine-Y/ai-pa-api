@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "487244079973",
+    "project_id": "my-ai-call-handler",
+    "storage_bucket": "my-ai-call-handler.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:487244079973:android:2fdf46da526f46cecd778c",
+        "android_client_info": {
+          "package_name": "agency.aistaff.call_summary_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDweI1s05UItrMGEQ1QNtppwGEM4dgpjlc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
